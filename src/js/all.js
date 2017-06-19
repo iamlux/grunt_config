@@ -1,5 +1,5 @@
 function sum() {
-	return 'Hello World';
+	return 'Hello Lakshmi';
 }
 
 var sumed = sum();
@@ -8,4 +8,4 @@ document.body.innerHTML = sumed;
 	alert(message);
 }
 
-say("Lakshmi Narayanan");
+say("Hello World !");

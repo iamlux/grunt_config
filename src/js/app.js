@@ -1,5 +1,5 @@
 function sum() {
-	return 'Hello World';
+	return 'Hello Lakshmi';
 }
 
 var sumed = sum();
